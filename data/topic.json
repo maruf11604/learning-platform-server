@@ -1,0 +1,22 @@
+[
+    {
+      "id": "01",
+      "name": "Web Development Courses"
+    },
+    {
+      "id": "02",
+      "name": " Android Development Courses"
+    },
+    {
+      "id": "03",
+      "name": "Graphics design Courses"
+    },
+    {
+      "id": "04",
+      "name": "Programming Courses"
+    },
+    {
+      "id": "05",
+      "name": "All Courses"
+    }
+  ]
