@@ -35,7 +35,7 @@ app.get('/course/:id',(req,res)=>{
     
 })
 
-app.get('/category/:id',(req,res)=>{
+app.get('/program/:id',(req,res)=>{
     const id =req.params.id ;
     const selectedCategories=categories.find(n =>n._id===id);
     console.log(selectedCategories)
