@@ -1,0 +1,92 @@
+[
+    {
+      "_id": "6358dd7b3f1115992efccd65",
+      "picture": "https://www.postingtree.com/wp-content/uploads/2022/07/Web-Development.jpg",
+      "title": "COMPLETE WEB DEVELOPMENT COURSE",
+      "category_id":"01",
+      "assignment":"7",
+      "quizzes":"20",
+      "videos":"55",
+      "rating":"4.5",
+      "text":" Hi! Welcome to the brand new version of The Web Developer Bootcamp, Edu learners most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. "
+    },
+    {
+      "_id": "6358dd7b0a2a277acb134953",
+      "picture": "https://www.mdiit.org/master_img/webdesign1.jpg",
+      "title": "WEB DESGN AND MASTARY IN JAVASCRIPT",
+      "category_id":"01",
+      "assignment":"9",
+      "quizzes":"23",
+      "videos":"60",
+      "rating":"4.0",
+      "text":" Hi! Welcome to the brand new version of The Web Designing Bootcamp, Edu learners most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. "
+    },
+    {
+      "_id": "6358dd7bb791a3cb340485d1",
+      "picture": "https://www.freecodecamp.org/news/content/images/2021/04/photo-1588690154757-badf4644190f.jpeg",
+      "title": "ANDROID DEVELOPMENT IN KOTLIN FULL COURSE",
+      "category_id":"02",
+      "assignment":"8",
+      "quizzes":"25",
+      "videos":"62",
+      "rating":"4.2",
+      "text":" Build a series of apps in Kotlin, which is the language that the majority of professional Android developers use. This is an older course than the Compose course"
+    },
+    {
+      "_id": "6358dd7ba2a39f4eea2e2940",
+      "picture": "https://d32dbz94xv1iru.cloudfront.net/resize/1/images/events/by_uuid/24/24bc6d22-75eb-49c9-b682-3bb29c682b4c-1501x900.jpg",
+      "title": "ANDROID DEVELOPMENT IN JAVA FULL COURSE",
+      "category_id":"02",
+      "assignment":"10",
+      "quizzes":"26",
+      "videos":"65",
+      "rating":"4.5",
+      "text":" Build a series of apps using Jetpack Compose, the modern way to create beautiful user interfaces in your Android apps. You will write these apps in the Java programming language. "
+    },
+    {
+      "_id": "6358dd7b88cd5943e37dc172",
+      "picture": "https://webdschool.com/images/thumbs/graphic-design-courses.jpg",
+      "title": "GRAPHIC DESIGN MASTERCLASS: LEARN BEST DESIGN",
+      "category_id":"03",
+      "assignment":"10",
+      "quizzes":"20",
+      "videos":"45",
+      "rating":"5",
+      "text": "As you can see, this course is updated frequently with new lessons, projects, and resources!"
+    },
+    {
+      "_id": "6358dd7b2f70af4a6ecfae48",
+      "picture": "https://www.kindpng.com/picc/m/339-3398571_wix-course-new-creative-graphic-designer-logo-hd.png",
+      "title": "GRAPHIC DESIGN FOR ALL: FOR BEGINNERS",
+      "category_id":"03",
+      "assignment":"7",
+      "quizzes":"18",
+      "videos":"48",
+      "rating":"4.5",
+      "text": "As you can see, this course is updated frequently with new lessons, projects and resources!"
+  
+    },
+    {
+      "_id": "6358dd7b6d0d0f32e7d8b593",
+      "picture": "https://e-courses4you.com/wp-content/w3-webp/uploads/2019/07/pythonbundle-1.pngw3.webp",
+      "title": "FULL PROGRAMMING COURSE IN PYTHON",
+      "category_id":"04",
+      "assignment":"21",
+      "quizzes":"32",
+      "videos":"165",
+      "rating":"4.0",
+      "text": "This is the most comprehensive, yet straight-forward, course for the Python programming language on Edu learners! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course, we will teach you Python 3."
+    },
+    {
+      "_id": "6358dd7bc21a7b2951a945f9",
+      "picture": "https://aktu.ict.iitk.ac.in/wp-content/uploads/c-programming-2.jpg",
+      "title": "MASTERY IN PROGRAMMING: c++",
+      "category_id":"04",
+      "assignment":"20",
+      "quizzes":"30",
+      "videos":"155",
+      "rating":"4.5",
+      "text":" This career path will turn you into a hireable C++ developer. It includes dozens of tasks, exercises and projects to aid in learning real-life programming skills."
+    
+    }
+  ]
