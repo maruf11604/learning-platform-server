@@ -20,7 +20,25 @@ app.get('/topics',(req,res)=>{
 })
 
 app.get('/category',(req,res)=>{
-    res.send(categories)
+    res.send(categories);
+})
+
+app.get('/course/:id',(req,res)=>{
+    const id=req.params.id;
+    if(id=== '05'){
+        res.send(categories);
+    }
+    else{
+        const categoryCourse=categories.filter(n=>n.category_id===id);
+        res.send(categoryCourse);
+    }
+    
+})
+
+app.get('/category/:id',(req,res)=>{
+    const id =req.params.id ;
+    const selectedCategories=categories.find(n =>n._id===id);
+    console.log(selectedCategories)
 })
 
 app.listen(port,()=>{
