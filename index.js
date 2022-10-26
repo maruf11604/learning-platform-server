@@ -6,6 +6,7 @@ const port=process.env.PORT || 5000;
 
 
 const topics= require('./data/topic.json');
+const categories=require('./data/categories.json');
 
 
 
@@ -16,6 +17,10 @@ app.get('/',(req,res)=>{
 
 app.get('/topics',(req,res)=>{
     res.send(topics);
+})
+
+app.get('/category',(req,res)=>{
+    res.send(categories)
 })
 
 app.listen(port,()=>{
